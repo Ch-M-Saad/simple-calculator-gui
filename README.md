@@ -3,7 +3,7 @@
 A clean, dark-mode **GUI calculator** built with **Python** and **Tkinter**.  
 Supports basic arithmetic along with **square (x²)** and **square root (√x)**.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](assets/screenshot.png)
 
 ---
 
@@ -24,3 +24,4 @@ cd simple-calculator-gui
 
 # 2) Run
 python calculator.py
+
